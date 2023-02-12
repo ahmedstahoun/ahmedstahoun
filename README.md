@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahoun !</h1>
 <h3 align="center">on my way to becoming your software developer.</h3>
 
-- I’m currently Training in [ITI - information technology institute](https://www.iti.gov.eg/iti/home)
+- I’m currently Training at [ITI - information technology institute](https://www.iti.gov.eg/iti/home)
 
 - 🌱 I’m currently learning **Fullstack web development - open source applications developer.**
 
